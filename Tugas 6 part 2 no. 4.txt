@@ -1,0 +1,9 @@
+﻿# include  < fstream >
+menggunakan  namespace  std ;
+int  main () {
+offile myfile;
+file saya. buka ( " datatugas5.txt " , ios :: app);
+myfile << " " ;
+file saya. tutup ();
+return  0 ;
+}
